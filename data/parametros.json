@@ -1,0 +1,12 @@
+{
+  "tipo_cambio": 1150,
+  "arancel": 0.35,
+  "margenes": {
+    "A": 0.45,
+    "B": 0.38,
+    "C": 0.30
+  },
+  "umbral_variacion": 0.15,
+  "umbral_margen_minimo": 0.25,
+  "factor_mercadolibre": 1.13
+}

@@ -1,0 +1,6 @@
+# Estado local de Claude Code (no es parte del proyecto)
+.claude/
+
+# Cache de Python
+__pycache__/
+*.pyc

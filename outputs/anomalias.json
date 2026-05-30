@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "F-004",
+    "nombre": "Auriculares in-ear BT",
+    "categoria": "A",
+    "costo_ars": 62100.0,
+    "precio_actual": 95000,
+    "precio_venta": 113000,
+    "precio_ml": 127700,
+    "variacion_pct": 18.9,
+    "margen_efectivo_pct": 45.0,
+    "flags": [
+      "VARIACION"
+    ]
+  },
+  {
+    "sku": "F-007",
+    "nombre": "Parlante BT portatil",
+    "categoria": "A",
+    "costo_ars": 93150.0,
+    "precio_actual": 140000,
+    "precio_venta": 169400,
+    "precio_ml": 191500,
+    "variacion_pct": 21.0,
+    "margen_efectivo_pct": 45.0,
+    "flags": [
+      "VARIACION"
+    ]
+  }
+]
