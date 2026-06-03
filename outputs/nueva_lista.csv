@@ -1,10 +1,9 @@
 sku,nombre,categoria,costo_ars,precio_actual,precio_venta,precio_ml,variacion_pct,margen_efectivo_pct
-F-001,Funda silicona iPhone,A,16200.0,27000,29500,33400,9.3,45.1
-F-002,Cargador USB-C 30W,B,40500.0,60000,65400,74000,9.0,38.1
-F-003,Cable USB-C 1m,C,8100.0,10800,11600,13200,7.4,30.2
-F-004,Auriculares in-ear BT,A,64800.0,95000,117900,133300,24.1,45.0
-F-005,Protector pantalla vidrio,C,12960.0,17200,18600,21100,8.1,30.3
-F-006,Soporte auto magnetico,B,24300.0,36500,39200,44300,7.4,38.0
-F-007,Parlante BT portatil,A,97200.0,140000,176800,199800,26.3,45.0
-F-008,Adaptador OTG USB-C,C,19440.0,25800,27800,31500,7.8,30.1
-G-666,pendrive,A,32400.0,60000,59000,66700,-1.7,45.1
+F-001,Funda silicona iPhone,A,16051.5,27000,29200,33000,8.1,45.0
+F-002,Cargador USB-C 30W,B,40128.75,60000,64800,73300,8.0,38.1
+F-003,Cable USB-C 1m,C,8025.75,10800,11500,13000,6.5,30.2
+F-004,Auriculares in-ear BT,A,64206.0,95000,116800,132000,22.9,45.0
+F-005,Protector pantalla vidrio,C,12841.2,17200,18400,20800,7.0,30.2
+F-006,Soporte auto magnetico,B,24077.25,36500,38900,44000,6.6,38.1
+F-007,Parlante BT portatil,A,96309.0,140000,175200,198000,25.1,45.0
+F-008,Adaptador OTG USB-C,C,19261.8,25800,27600,31200,7.0,30.2
